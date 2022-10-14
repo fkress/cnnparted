@@ -1,0 +1,9 @@
+Found 13 partition points.
+
+Median Simulation Time
+===========================================
+DNN Analyzer: 0.3722240924835205 s
+Sensor Node:  164.44093990325928 s
+Link:         0.0002371072769165039 s
+Edge Node:    55.10118007659912 s
+
