@@ -1,0 +1,10 @@
+/home/vy7013/Projekte/cnnparted/pythonEnv/lib64/python3.6/site-packages/torchvision/models/googlenet.py:80: FutureWarning: The default weight initialization of GoogleNet will be changed in future releases of torchvision. If you wish to keep the old behavior (which leads to long initialization times due to scipy/scipy#11299), please set init_weights=True.
+  ' due to scipy/scipy#11299), please set init_weights=True.', FutureWarning)
+Found 13 partition points.
+
+Median Simulation Time
+===========================================
+DNN Analyzer: 0.33475446701049805 s
+Sensor Node:  631.0980417728424 s
+Link:         0.00016355514526367188 s
+Edge Node:    3.814697265625e-06 s
